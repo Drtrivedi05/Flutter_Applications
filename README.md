@@ -66,9 +66,9 @@ Each project can be placed in its own directory, or combined into one with separ
 
 3. Run the app
 
-  ```bash
-  flutter run
-  ```
+     ```bash
+     flutter run
+     ```
 Ensure you have an emulator running or a physical device connected.
 
 📧 Contact
