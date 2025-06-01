@@ -59,7 +59,7 @@ Potential Use Cases:
 
 1. Clone the Repository  
    ```bash
-   git clone https://github.com/your-username/flutter-app-collection.git
+   git clone https://github.com/Drtrivedi05/Flutter_Applications.git
    ```
 2. Navigate into a project folder
 Each project can be placed in its own directory, or combined into one with separate Dart files.
